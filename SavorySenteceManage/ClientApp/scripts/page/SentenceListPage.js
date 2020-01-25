@@ -1,0 +1,2 @@
+function SentenceListPage($scope, $stateParams) {
+}
